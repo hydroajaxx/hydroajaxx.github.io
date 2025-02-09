@@ -1,0 +1,25 @@
+h3{
+	color: saddlebrown;
+	font-size: 50px;
+	text-align: center;
+	font-family: gill sans-serif;
+}
+h4{
+	color: burlywood;
+	font-size: 35px;
+	font-family: sans-serif;
+}
+.meow{
+	width: 45%;
+
+}
+p{
+	font-family: sans-serif;
+}
+body {
+  background-image: url("https://img.freepik.com/free-vector/cat-lover-pattern-background-design_53876-100662.jpg?t=st=1739093972~exp=1739097572~hmac=d57c3510bd753364f903c791e1247ca83920b382a00a9bceadac3891544a5255&w=1060");
+
+.meoww{
+	color: #ba905f;
+	font-family: sans-serif;
+}
