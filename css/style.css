@@ -10,8 +10,8 @@ h4{
 	font-family: sans-serif;
 }
 .meow{
-	width: 45%;
-
+	width:35%;
+ 
 }
 p{
 	font-family: sans-serif;
@@ -22,4 +22,12 @@ body {
 .meoww{
 	color: #ba905f;
 	font-family: sans-serif;
+}
+.honey{
+	color: #ba905f;
+	font-family: sans-serif;
+	margin-bottom: 25px;
+}
+.carouselimage{
+	width: 30%;
 }
